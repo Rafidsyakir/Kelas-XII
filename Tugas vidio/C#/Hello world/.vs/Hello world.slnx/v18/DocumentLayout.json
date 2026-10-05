@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Affan\\source\\repos\\Hello world\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF2792E-F8A7-45D9-83CE-EA97343F4C10}|Hello world\\Hello world.csproj|c:\\users\\affan\\source\\repos\\hello world\\hello world\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF2792E-F8A7-45D9-83CE-EA97343F4C10}|Hello world\\Hello world.csproj|solutionrelative:hello world\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Affan\\source\\repos\\Hello world\\Hello world\\Program.cs",
+              "RelativeDocumentMoniker": "Hello world\\Program.cs",
+              "ToolTip": "C:\\Users\\Affan\\source\\repos\\Hello world\\Hello world\\Program.cs",
+              "RelativeToolTip": "Hello world\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T02:35:04.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+C:\Users\Affan\source\repos\Contoh Soal\Contoh Soal\bin\Debug\Contoh Soal.exe.config
+C:\Users\Affan\source\repos\Contoh Soal\Contoh Soal\bin\Debug\Contoh Soal.exe
+C:\Users\Affan\source\repos\Contoh Soal\Contoh Soal\bin\Debug\Contoh Soal.pdb
+C:\Users\Affan\source\repos\Contoh Soal\Contoh Soal\obj\Debug\Contoh Soal.csproj.AssemblyReference.cache
+C:\Users\Affan\source\repos\Contoh Soal\Contoh Soal\obj\Debug\Contoh_Soal.Properties.Resources.resources
+C:\Users\Affan\source\repos\Contoh Soal\Contoh Soal\obj\Debug\Contoh Soal.csproj.GenerateResource.cache
+C:\Users\Affan\source\repos\Contoh Soal\Contoh Soal\obj\Debug\Contoh Soal.csproj.CoreCompileInputs.cache
+C:\Users\Affan\source\repos\Contoh Soal\Contoh Soal\obj\Debug\Contoh Soal.exe
+C:\Users\Affan\source\repos\Contoh Soal\Contoh Soal\obj\Debug\Contoh Soal.pdb

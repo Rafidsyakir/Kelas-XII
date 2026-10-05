@@ -1,0 +1,9 @@
+C:\Users\Affan\source\repos\Calculator sederhana\Calculator sederhana\bin\Debug\Calculator sederhana.exe.config
+C:\Users\Affan\source\repos\Calculator sederhana\Calculator sederhana\bin\Debug\Calculator sederhana.exe
+C:\Users\Affan\source\repos\Calculator sederhana\Calculator sederhana\bin\Debug\Calculator sederhana.pdb
+C:\Users\Affan\source\repos\Calculator sederhana\Calculator sederhana\obj\Debug\Calculator sederhana.csproj.AssemblyReference.cache
+C:\Users\Affan\source\repos\Calculator sederhana\Calculator sederhana\obj\Debug\Calculator_sederhana.Properties.Resources.resources
+C:\Users\Affan\source\repos\Calculator sederhana\Calculator sederhana\obj\Debug\Calculator sederhana.csproj.GenerateResource.cache
+C:\Users\Affan\source\repos\Calculator sederhana\Calculator sederhana\obj\Debug\Calculator sederhana.csproj.CoreCompileInputs.cache
+C:\Users\Affan\source\repos\Calculator sederhana\Calculator sederhana\obj\Debug\Calculator sederhana.exe
+C:\Users\Affan\source\repos\Calculator sederhana\Calculator sederhana\obj\Debug\Calculator sederhana.pdb

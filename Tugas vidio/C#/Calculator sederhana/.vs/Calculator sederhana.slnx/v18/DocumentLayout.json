@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Affan\\source\\repos\\Calculator sederhana\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57CAD82B-D173-4504-AD97-89A3D4C7D921}|Calculator sederhana\\Calculator sederhana.csproj|c:\\users\\affan\\source\\repos\\calculator sederhana\\calculator sederhana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57CAD82B-D173-4504-AD97-89A3D4C7D921}|Calculator sederhana\\Calculator sederhana.csproj|solutionrelative:calculator sederhana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Affan\\source\\repos\\Calculator sederhana\\Calculator sederhana\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculator sederhana\\Form1.cs",
+              "ToolTip": "C:\\Users\\Affan\\source\\repos\\Calculator sederhana\\Calculator sederhana\\Form1.cs [Design]",
+              "RelativeToolTip": "Calculator sederhana\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T03:09:10.735Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
